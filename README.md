@@ -2,5 +2,6 @@
 
 - sudo apt install vim 
 - exit file  :q!
-- edit (SELECT i)
-- go newline (SELECT o)
+- edit (PRESS i)
+- go newline (PRESS o)
+- undo ( PRESS u)
