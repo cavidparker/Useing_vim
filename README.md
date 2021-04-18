@@ -1,4 +1,4 @@
-# Useing_vim
+# Using_vim
 
 - sudo apt install vim 
 - exit file  :q!
