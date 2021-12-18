@@ -5,4 +5,6 @@
 - edit (PRESS i)
 - go newline (PRESS o)
 - undo ( PRESS u)
-- save and exit (PRESS :x)
+- save and exit (PRESS :x) 
+- or
+- :x!
